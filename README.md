@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KoolC2
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently an Alx and Datacamp student.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @linkedin.com/in/funmilola-okunlola-dataanalyst-financeanalyst-accounts
+- 👀 I’m a Buisness Intelligence and Finanical Analyst.
+- 🌱 I’m currently an Alx and International University of Applied science student.
+- 💞️ I’m looking to collaborate on any open source project.
+- 📫 How to reach me @www.linkedin.com/in/funmilola-okunlola-businessintelligence-dataanalyst-financeanalyst-accounts
 
 <!---
 KoolC2/KoolC2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
