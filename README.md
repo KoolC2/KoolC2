@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @KoolC2
-- 👀 I’m a Buisness Intelligence and Finanical Analyst.
+- 👋 Hi, I’m Funmilola.
+- 👀 I’m a Buisness Intelligence, Finanical Analyst and Aspiring Business Analyst.
 - 🌱 I’m currently an Alx and International University of Applied science student.
 - 💞️ I’m looking to collaborate on any open source project.
 - 📫 How to reach me @www.linkedin.com/in/funmilola-okunlola-businessintelligence-dataanalyst-financeanalyst-accounts
